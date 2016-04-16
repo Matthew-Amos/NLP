@@ -1,0 +1,11 @@
+body {
+    background: url('/tiny_grid.png') repeat;
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+}
+
+#disclaimer {
+    font-size: 8px;
+    font-style: italic;
+}
